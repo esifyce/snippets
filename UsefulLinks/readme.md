@@ -79,3 +79,27 @@ but most are required to pay.
 4. KK UI Store (http://kkuistore.com/) - Include both free and premium UI Kits.
 5. Elegant (https://pixelbuddha.net/freebie/free-mobile-ui-kit-elegance-ios) - A UI KIt which is
 best for shopping and ecommerce apps
+
+<h1>iPhone devices have different screen dimensions</h1>
+For iPhone SE (old model), the screen in portrait mode consists of 320 points
+(or 640 pixels) horizontally and 568 points (or 1136 pixels) vertically.
+For iPhone 6/6s/7/8/SE (new model), the screen consists of 375 points (or
+750 pixels) horizontally and 667 points (or 1334 pixels) vertically.
+For iPhone 6/6s/7/8 Plus, the screen consists of 414 points (or 1242 pixels)
+horizontally and 736 points (or 2208 pixels) vertically.
+For iPhone X/XS/11/12 Pro/13 mini, the screen consists of 375 points (or 1125
+pixels) horizontally and 812 points (or 2436 pixels) vertically.
+For iPhone 13/13 Pro, the screen consists of 390 points (or 1170 pixels)
+horizontally and 844 points (or 2532 pixels) vertically.
+For iPhone XR/11/12, the screen consists of 414 points (or 828 pixels)
+horizontally and 896 points (or 1792 pixels) vertically.
+For iPhone XS Max/11/12 Pro Max, the screen consists of 414 points (or 1242
+pixels) horizontally and 896 points (or 2688 pixels) vertically.
+For iPhone 13 Pro Max, the screen consists of 428 points (or 1284 pixels)
+horizontally and 926 points (or 2778 pixels) vertically.
+For iPhone 4s, the screen consists of 320 points (or 640 pixels) and 480
+points (or 960 pixels).
+
+* Пункт 1
+* Пункт 2
+* Пункт 3
