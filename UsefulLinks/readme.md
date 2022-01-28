@@ -99,7 +99,3 @@ For iPhone 13 Pro Max, the screen consists of 428 points (or 1284 pixels)
 horizontally and 926 points (or 2778 pixels) vertically.
 For iPhone 4s, the screen consists of 320 points (or 640 pixels) and 480
 points (or 960 pixels).
-
-* Пункт 1
-* Пункт 2
-* Пункт 3
