@@ -205,4 +205,8 @@ class ShitCodeViewController: UIViewController, UIGestureRecognizerDelegate {
             self.sheetState = .moved
         }
     }
+    
+    func gestureRecognizer(_ gestureRecognizer: UIGestureRecognizer, shouldRecognizeSimultaneouslyWith otherGestureRecognizer: UIGestureRecognizer) -> Bool {
+        return true
+    }
 }
