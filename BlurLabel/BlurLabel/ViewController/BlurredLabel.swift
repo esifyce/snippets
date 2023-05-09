@@ -15,7 +15,7 @@ class BlurredLabel: UILabel {
         }
     }
 
-    var blurRadius: Double = 5.5 {
+    var blurRadius: Double = 10 {
         didSet {
             blurFilter?.setValue(blurRadius, forKey: kCIInputRadiusKey)
         }
