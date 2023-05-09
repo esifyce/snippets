@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A61FF6C-0D25-4F01-8CE0-C67B9C27D003"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41D6F8A2-A9DB-47CB-AA21-9B63DA196D6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CheckInternetApp/CheckInternet/CheckInternetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "didTapFirstBtn(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41D6F8A2-A9DB-47CB-AA21-9B63DA196D6F - ba8852c63730bed4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CheckInternetApp.CheckInternetViewController.didTapSecondBtn(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "CheckInternetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CheckInternetApp/CheckInternetApp/CheckInternet/CheckInternetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "41D6F8A2-A9DB-47CB-AA21-9B63DA196D6F - ec01407d2ebb4bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CheckInternetApp.CheckInternetViewController.didTapSecondBtn(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "CheckInternetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CheckInternetApp/CheckInternetApp/CheckInternet/CheckInternetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "41D6F8A2-A9DB-47CB-AA21-9B63DA196D6F - 40ec2c913b18f429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CheckInternetApp.CheckInternetViewController.didTapFirstBtn(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "CheckInternetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CheckInternetApp/CheckInternetApp/CheckInternet/CheckInternetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "41D6F8A2-A9DB-47CB-AA21-9B63DA196D6F - 40ec2c913b18f700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CheckInternetApp.CheckInternetViewController.didTapFirstBtn(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "CheckInternetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CheckInternetApp/CheckInternetApp/CheckInternet/CheckInternetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "171C1C42-041E-43E2-9AFA-CF23B5839C04"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CheckInternetApp/CheckInternet/Managers/Extension/UIButton+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "sendAction(_:to:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
