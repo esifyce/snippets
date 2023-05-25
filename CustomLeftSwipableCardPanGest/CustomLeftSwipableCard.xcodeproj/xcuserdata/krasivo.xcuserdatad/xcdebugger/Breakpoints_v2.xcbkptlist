@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6F462A9B-3167-41E7-9630-9EB0A93CAD87"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBE44280-A1E1-4675-B4BD-78E3AB109EF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "332"
+            endingLineNumber = "332"
+            landmarkName = "drag(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FBE44280-A1E1-4675-B4BD-78E3AB109EF7 - a2bf8e1058f70a5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "2760">
+               </Location>
+               <Location
+                  uuid = "FBE44280-A1E1-4675-B4BD-78E3AB109EF7 - a2bf8e1058f70a19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "334"
+                  endingLineNumber = "334"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "594B47CC-1D45-4976-BE3A-6DC22ACB2552"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "drag(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "594B47CC-1D45-4976-BE3A-6DC22ACB2552 - a2bf8e1058f708e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "343"
+                  endingLineNumber = "343"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "594B47CC-1D45-4976-BE3A-6DC22ACB2552 - a2bf8e1058f70b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "341"
+                  endingLineNumber = "341"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2223230C-8B43-4487-97EB-F43F028D4D2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "347"
+            endingLineNumber = "347"
+            landmarkName = "drag(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2223230C-8B43-4487-97EB-F43F028D4D2C - a2bf8e1058f7082a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "2223230C-8B43-4487-97EB-F43F028D4D2C - a2bf8e1058f7086c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "347"
+                  endingLineNumber = "347"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D29E9501-0255-4015-A611-78733782CAB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "351"
+            endingLineNumber = "351"
+            landmarkName = "drag(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D29E9501-0255-4015-A611-78733782CAB4 - a2bf8e1058f709e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "2204">
+               </Location>
+               <Location
+                  uuid = "D29E9501-0255-4015-A611-78733782CAB4 - a2bf8e1058f709b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "352"
+                  endingLineNumber = "352"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42574E31-4532-4866-AC8B-17882E2A6E82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
+            landmarkName = "drag(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42574E31-4532-4866-AC8B-17882E2A6E82 - a2bf8e1058f70975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "2624">
+               </Location>
+               <Location
+                  uuid = "42574E31-4532-4866-AC8B-17882E2A6E82 - 367f7df111c81921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "42574E31-4532-4866-AC8B-17882E2A6E82 - 5df3cca17b538fdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "356"
+                  endingLineNumber = "356"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "42574E31-4532-4866-AC8B-17882E2A6E82 - a2bf8e1058f70975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLeftSwipableCard.CardHomeTableViewCell.drag(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "CustomLeftSwipableCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krasivo/Desktop/CustomLeftSwipableCard/CustomLeftSwipableCard/Modules/CardHomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "2204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
