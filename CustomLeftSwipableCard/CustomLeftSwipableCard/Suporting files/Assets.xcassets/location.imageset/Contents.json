@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "fluent_location-20-regular.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
