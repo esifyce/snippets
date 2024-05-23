@@ -1,0 +1,29 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "EN Change" : {
+
+    },
+    "hello-world" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello world!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привет мир!"
+          }
+        }
+      }
+    },
+    "RU Change" : {
+
+    }
+  },
+  "version" : "1.0"
+}
